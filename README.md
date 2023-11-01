@@ -9,6 +9,9 @@
     fences
     more roads
     cars
+    porches
+    parks(possibly)
+    skyscrapers
 
 
 ## Other Assets
