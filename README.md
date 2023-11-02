@@ -7,15 +7,15 @@ this is a fork made to add more assets to the game
 
 ### To Do:
     Priority:
-     Add a post office building
+       Add a post office building
     Others:
-     House
-     fences
-     more roads
-     cars
-     porches
-     parks(possibly)
-     skyscrapers
+       House
+       fences
+       more roads
+       cars
+       porches
+       parks(possibly)
+       skyscrapers
 
 
 ##Sound:
