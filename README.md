@@ -17,7 +17,7 @@ this is a fork made to add more assets to the game
 
 ##Sound:
 
-[All sound files]()
+[All sound files](sound_sugestion_links.md)
 
 source:
 https://freesound.org
