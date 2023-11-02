@@ -6,13 +6,16 @@ this is a fork made to add more assets to the game
     traffic cone
 
 ### To Do:
-    House
-    fences
-    more roads
-    cars
-    porches
-    parks(possibly)
-    skyscrapers
+    Priority:
+     Add a post office building
+    Others:
+     House
+     fences
+     more roads
+     cars
+     porches
+     parks(possibly)
+     skyscrapers
 
 
 ##Sound:
